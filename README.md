@@ -1,8 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+# 안녕! 반가워!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=내+github에+온+것을+환영해!;+내+이름은+"김진호"야!)](https://git.io/typing-svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&)
